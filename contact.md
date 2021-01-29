@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Contact"
-permalink: /contact/
+permalink: /about/contact/
 ---
 
 phamson11999977@gmail.com
